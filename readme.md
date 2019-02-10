@@ -17,3 +17,4 @@
 * git remote // show the remote repo location
 * git remote add origin https://github.com/yamraj21/understanding-git.git // to add a remote repo
 * git remote // will list out the origin you are workign
+* git clone <repo_url> // take an online git repo to your local machine
