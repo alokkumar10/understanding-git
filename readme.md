@@ -16,3 +16,4 @@
 ### workign with remote location
 * git remote // show the remote repo location
 * git remote add origin https://github.com/yamraj21/understanding-git.git // to add a remote repo
+* git remote // will list out the origin you are workign
