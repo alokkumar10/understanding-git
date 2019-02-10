@@ -1,5 +1,18 @@
+## what is git and its uses
+* its a distributed version control
+* use to coordinate between multiple developer
+* it is an example of Verion Management System (VMS)
+* you can revert back to and time to previous change
+* you can work without internet excess (not everytime ;)
+* keep track of your code history
 
-
+## Basic Commands 
+* git inti // intialize local repo
+* git add // add files to the index
+* git status // check the working tree
+* git commit // commit changes in index
+* git push // push your changes to remote repo
+* git clone // copy repo into your local machine
 * git config --global user.email "singhp154154@gmail.com" // add your detail to the project
 * git config --global user.name "yamraj21"  // add your detail to the project
 * git add // add a file to the project
